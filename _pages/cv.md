@@ -39,6 +39,10 @@ Research positions
 
 Work experience
 ------
+* Research Lead
+  * Digital Medicine Society, DiMe
+  * 2022
+
 * Licensed Occupational Therapist
   * The Garden of Hope Foundation, New Taipei, Taiwan
   * 2013-2015
