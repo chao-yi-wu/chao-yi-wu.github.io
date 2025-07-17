@@ -1,6 +1,6 @@
 ---
 title: "Unobstrusive sensing in-home behaviors and health outcomes"
-excerpt: "<br/><img src='/images/layout_final.png'>"
+excerpt: "<br/><img src='/images/layout_final.png' width="500" height="300">"
 collection: portfolio
 ---
 
