@@ -6,23 +6,22 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 Education
-------
+======
 * Ph.D in Rehabilitation Sciences, University of Pittsburgh, 2019
 * M.S. in Statistics/Data Science, University of Texas in Austin, 2026 (expected)
-* M.S. and B.S. in Occupational Therapy, National Taiwan University, 2015
+* B.S. in Occupational Therapy, National Taiwan University, 2012
 
 Research positions
-------
-* Assistant Professor in Neurology
-  * Massachusetts General Hospital, Harvard Medical School
+======
+* Assistant Professor
+  * Neurology, Massachusetts General Hospital, Harvard Medical School
   * 2025-
 
-* Faculty Member of Neurology
-  * Massachusetts General Hospital, Harvard Medical School
+* Faculty Member
+  * Neurology, Massachusetts General Hospital, Harvard Medical School
   * 2023-2025
 
 * Research Data Analyst III
@@ -38,7 +37,7 @@ Research positions
   * 2019-2020
 
 Work experience
-------
+======
 * Research Lead
   * Digital Medicine Society, DiMe
   * 2022
