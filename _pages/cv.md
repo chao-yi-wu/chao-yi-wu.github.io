@@ -12,40 +12,32 @@ Education
 ======
 * Ph.D in Rehabilitation Sciences, University of Pittsburgh, 2019
 * M.S. in Statistics/Data Science, University of Texas in Austin, 2026 (expected)
+* M.S. in Occupational Therapy, National Taiwan University, 2015
 * B.S. in Occupational Therapy, National Taiwan University, 2012
 
 Research positions
 ======
-* Assistant Professor
+* Assistant Professor, 2025-
   * Neurology, Massachusetts General Hospital, Harvard Medical School
   * 2025-
 
-* Faculty Member
+* Faculty Member, 2023-2025
   * Neurology, Massachusetts General Hospital, Harvard Medical School
-  * 2023-2025
 
-* Research Data Analyst III
+* Research Data Analyst III, 2021-2023
   * Neurology, Oregon Health & Science University
-  * 2021-2023
  
-* Senior Research Associate
+* Senior Research Associate, 2020-2021
   * Neurology, Oregon Health & Science University
-  * 2020-2021
  
-* Postdoctoral Scholar
+* Postdoctoral Scholar, 2019-2020
   * Neurology, Oregon Health & Science University
-  * 2019-2020
 
 Work experience
 ======
-* Research Lead
-  * Digital Medicine Society, DiMe
-  * 2022
+* Research Lead, 2022
+  * Digital Medicine Society (DiMe)
 
-* Licensed Occupational Therapist
+* Licensed Occupational Therapist, 2013-2015
   * The Garden of Hope Foundation, New Taipei, Taiwan
-  * 2013-2015
-
-* Licensed Occupational Therapist
   * The Genesis Social Welfare Foundation, Taipei, Taiwan
-  * 2013-2015
