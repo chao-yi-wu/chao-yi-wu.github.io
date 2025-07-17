@@ -1,5 +1,5 @@
 ---
-title: "Unobstrusive sensing in-home behaviors and health outcomes"
+title: "Topic 1: Unobstrusive sensing in-home behaviors and health outcomes"
 excerpt: '<br/><img src="/images/layout_final.png" width="300" height="300">'
 collection: portfolio
 ---
