@@ -10,33 +10,39 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * Ph.D in Rehabilitation Sciences, University of Pittsburgh, 2019
 * M.S. in Statistics/Data Science, University of Texas in Austin, 2026 (expected)
 * M.S. and B.S. in Occupational Therapy, National Taiwan University, 2015
 
+Research positions
+------
+* Assistant Professor in Neurology
+  * Massachusetts General Hospital, Harvard Medical School
+  * 2025-
+
+* Faculty Member of Neurology
+  * Massachusetts General Hospital, Harvard Medical School
+  * 2023-2025
+
+* Research Data Analyst III
+  * Neurology, Oregon Health & Science University
+  * 2021-2023
+ 
+* Senior Research Associate
+  * Neurology, Oregon Health & Science University
+  * 2020-2021
+ 
+* Postdoctoral Scholar
+  * Neurology, Oregon Health & Science University
+  * 2019-2020
+
 Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+------
+* Licensed Occupational Therapist
+  * The Garden of Hope Foundation, New Taipei, Taiwan
+  * 2013-2015
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Licensed Occupational Therapist
+  * The Genesis Social Welfare Foundation, Taipei, Taiwan
+  * 2013-2015
