@@ -1,0 +1,12 @@
+---
+title: 'Paper published in Alzheimer & Dementia'
+date: 2025-06-09
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
+------
+
+Dr. Chao-Yi Wu's paper, entitled "Synthetic control methods for n-of-1 and parallel-group trials in Alzheimer's disease: A proof-of-concept study using the I-CONECT" has been published in Alzheimer & Dementia! Check it out here: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70460
