@@ -1,6 +1,6 @@
 ---
-title: 'Paper published in Alzheimer & Dementia'
-date: 2025-06-09
+title: 'Paper published in Alzheimer & Dementia: Translational Research & Clinical Interventions (TRCI)'
+date: 2025-01-15
 tags:
   - cool posts
   - category1
@@ -9,4 +9,4 @@ tags:
 
 ------
 
-Dr. Chao-Yi Wu's paper, entitled "Synthetic control methods for n-of-1 and parallel-group trials in Alzheimer's disease: A proof-of-concept study using the I-CONECT" has been published in Alzheimer & Dementia! Check it out here: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70460
+Dr. Chao-Yi Wu's paper, entitled "Cognitive and Alzheimer's disease biomarker effects of oral nicotinamide riboside (NR) supplementation in older adults with subjective cognitive decline and mild cognitive impairment" has been published in Alzheimer & Dementia: Translational Research & Clinical Interventions (TRCI)! Check it out here: [Link](https://alz-journals.onlinelibrary.wiley.com/journal/23528737)
