@@ -1,9 +1,9 @@
 ---
-title: 'NIH K01 Award to study the heterogeneity of Alzheimer Disease and Related Dementias'
-date: 2025-06-15
+title: 'Dr. Wu and her team moved to Massachusetts General Hospital!'
+date: 2023-01-09
 ---
 
 ------
 
 
-Dr. Chao-Yi Wu has received a $646,000 research award from the National Institute on Aging to develop a new system that combines different types of health data, including plasma and digital biomarkers, collected over many years. Using advanced machine learning, this work aims to better understand why Alzheimer’s and related dementias affect people so differently, helping to create more personalized care for each individual.
+Dr. Chao-Yi Wu begins the next chapter of her research career as a faculty member in the Department of Neurology at Massachusetts General Hospital and Harvard Medical School.
