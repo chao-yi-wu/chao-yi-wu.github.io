@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-------
+---
 Education
 ------
 * Ph.D in Rehabilitation Sciences, University of Pittsburgh, 2019
