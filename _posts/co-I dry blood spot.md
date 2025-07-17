@@ -1,9 +1,9 @@
 ---
-title: 'NIH K01 Award to study the heterogeneity of Alzheimer Disease and Related Dementias'
-date: 2025-06-15
+title: 'New NIH R21 grant to study the feasibility of dried blood spot testing in Alzheimer’s research'
+date: 2024-09-15
 ---
 
 ------
 
 
-Dr. Chao-Yi Wu has received a $646,000 research award from the National Institute on Aging to develop a new system that combines different types of health data, including plasma and digital biomarkers, collected over many years. Using advanced machine learning, this work aims to better understand why Alzheimer’s and related dementias affect people so differently, helping to create more personalized care for each individual.
+Exciting news! Dr. Chao-Yi Wu is a co-investigator on a newly awarded R21 grant from the National Institute on Aging. This project will explore the technical variability and feasibility of using dried blood spot samples to measure key Alzheimer's disease biomarkers, including pTau217, GFAP, and NfL. Congratulations to Dr. Wu and the research team!
