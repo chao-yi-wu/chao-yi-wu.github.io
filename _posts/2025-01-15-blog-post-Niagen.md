@@ -1,5 +1,5 @@
 ---
-title: 'Paper published in Alzheimer & Dementia: Translational Research & Clinical Interventions (TRCI)'
+title: 'Paper published in Alzheimer & Dementia: Translational Research & Clinical Interventions'
 date: 2025-01-15
 tags:
   - cool posts
