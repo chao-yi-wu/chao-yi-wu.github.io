@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-{% include base_path %}
 Education
 ------
 * Ph.D in Rehabilitation Sciences, University of Pittsburgh, 2019
