@@ -1,5 +1,5 @@
 ---
-title: 'Paper published in Alzheimer & Dementia: Translational Research & Clinical Interventions'
+title: 'Paper published in Alzheimer & Dementia: Translational Research & Clinical Interventions about the efficacy of oral nicotinamide riboside (NR) supplementation'
 date: 2025-01-15
 ---
 
