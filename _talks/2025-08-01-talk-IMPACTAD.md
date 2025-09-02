@@ -1,11 +1,11 @@
 ---
-title: "Dr. Wu talked about MCI subtypes and its risk factors in Madrid, Spain"
-excerpt: '<br/><img src="/images/CTAD photo.png" width="350" height="350">'
+title: "Dr. Wu participated in the IMPACT-AD fellowship program in the summer of 2025"
+excerpt: '<br/><img src="/images/impact-ad.png" width="350" height="350">'
 type: "Talk"
-permalink: /talks/2014-03-01-talk-3
-venue: "The Clinical Trials on Alzheimer's Disease conference (CTAD)"
-date: 2024-10-30
-location: "Madrid, Spain"
+permalink: /talks/2025-08-01-talk-IMPACTAD
+venue: "IMPACT-AD"
+date: 2025-08-29
+location: "La Jolla, CA"
 ---
 
-Dr. Wu spoke at the 17th Clinical Trials on Alzheimer's Disease conference (CTAD). Her talk focuses on the variations in incidence, progression, and risk factors across mild cognitive impairment (MCI) subtypes.
+A group photo with the Chief Science Officer of Alzheimer's Association, Dr Maria Carrillo, and fellows of the program. This photo was taken after a fascinating conversation about how to build successful teamwork.
