@@ -1,7 +1,7 @@
 ---
-title: "Dr. Wu participated in the IMPACT-AD fellowship program in the summer of 2025"
+title: "Dr. Wu participated in the IMPACT-AD program in the summer of 2025"
 excerpt: '<br/><img src="/images/impact-ad.jpg" width="380" height="380">'
-type: "Talk"
+type: "Workshop"
 permalink: /talks/2025-08-01-talk-IMPACTAD
 venue: "IMPACT-AD"
 date: 2025-08-29
